@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts": {
     {"id": "1",
     "title": "gfjfds",
     "description": "dfjkhsdu" }
@@ -30,5 +30,5 @@
         {"id": "10",
     "title": "gxfjhfd",
     "description": "dahfyuj" }
-  ]
+    }
 }
