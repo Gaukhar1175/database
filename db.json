@@ -1,34 +1,35 @@
 {
-  "posts": {
-    {"id": "1",
+  "posts": [
+    {"id": 1,
     "title": "gfjfds",
     "description": "dfjkhsdu" }
-        {"id": "2",
+        {"id": 2,
     "title": "fyugdsj",
     "description": "hdsf" }
-        {"id": "3",
+        {"id": 3,
     "title": "djhfj",
     "description": "dfvs" }
-        {"id": "4",
+        {"id": 4,
     "title": "dfgdj",
     "description": "r7qiusan" }
-        {"id": "5",
+        {"id": 5,
     "title": "yuhrbf",
     "description": "bfjbmnf" }
-        {"id": "6",
+        {"id": 6,
     "title": "rehks",
     "description": "dnskfksdgv" }
-        {"id": "7",
+        {"id": 7,
     "title": "uiqidaljf",
     "description": "fsdfjcxx" }
-        {"id": "8",
+        {"id": 8,
     "title": "jkshfsd",
     "description": "figekfsnc" }
-        {"id": "9",
+        {"id": 9,
     "title": "fkdsbnc",
     "description": "vjkdjhjvjkxmn" }
-        {"id": "10",
+        {"id": 10,
     "title": "gxfjhfd",
     "description": "dahfyuj" }
-    }
+    ]
+  "profile" : {"name": "Profile 1" }
 }
